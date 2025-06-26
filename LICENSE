@@ -1,0 +1,14 @@
+
+---
+
+## ✅ 6. Optional `.gitignore`
+
+```txt
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+dist/
+build/
+*.egg-info/
