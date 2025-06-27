@@ -18,6 +18,9 @@ A Python-based brute-force tool that simulates Hydra functionality, with added s
 
 ---
 
+--- Already provided a test page with pre-existing login details.
+### Check at the bottom.
+
 ## 🐧 Kali Linux Installation Guide
 
 ### 1. 🔧 System Requirements
